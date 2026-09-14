@@ -1,4 +1,0 @@
-gunicorn
-Django>=4.0,<5.0
-whitenoise
-django-cors-headers
